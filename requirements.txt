@@ -1,0 +1,8 @@
+requests
+urllib
+idna
+rich
+tqdm
+dnspython
+python-dotenv
+
