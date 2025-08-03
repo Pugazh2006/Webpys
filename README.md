@@ -16,7 +16,11 @@ WebPyS is a powerful, modular web reconnaissance tool that performs **passive an
 
 ---
  📦 Installation
-   git clone _______________________________________
+
+   git clone  https://github.com/PugazhTheHacker/Webpys.git
+   cd ./Desktop
+   cd ./Webpys
+   python3 webpys.py
 
 ### 🔧 Requirements
 
