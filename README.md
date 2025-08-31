@@ -31,12 +31,3 @@ WebPyS is a powerful, modular web reconnaissance tool that performs **passive an
  cd ./Webpys
 
  python webpys.py
-
-
-
-
-
-
-
-   
-   python3 webpys.py
