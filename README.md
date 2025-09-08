@@ -21,7 +21,7 @@ WebPyS is a powerful, modular web reconnaissance tool that performs **passive an
 
 ### 🔧 Requirements
 
-- Python 3.7+
+- Python 
  pip install -r requirement.txt
 
 ### ✅ Install Dependencies
