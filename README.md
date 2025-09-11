@@ -14,7 +14,6 @@ WebPyS is a powerful, modular web reconnaissance tool that performs **passive an
 - 🎨 Beautiful CLI banner (Rich-powered)
 - ✅ Clean Python3 codebase — no bloat, no frameworks
 
----
  📦 Installation
 
    git clone  https://github.com/PugazhTheHacker/Webpys.git
