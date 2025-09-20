@@ -37,9 +37,9 @@ $pip install --upgrade pip
 $pip install -r requirements.txt
 
   ```
--  ```
-  $ cd webpys
-  $ python webpys.py
+- 
+   cd webpys
+  python webpys.py
   ```
 
 
