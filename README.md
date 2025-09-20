@@ -32,11 +32,12 @@ python -m venv venv
 .\venv\Scripts\Activate.ps1
 
 # install dependencies
-pip install --upgrade pip
-pip install -r requirements.txt
+$pip install --upgrade pip
+
+$pip install -r requirements.txt
 
   ```
-- Now go to cloned directory and run `webpys.py` ```
+-  ```
   $ cd webpys
   $ python webpys.py
   ```
