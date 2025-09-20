@@ -36,8 +36,7 @@ pip install --upgrade pip
 pip install -r requirements.txt
 
   ```
-- Now go to cloned directory and run `webpys.py` 
-  ```
+- Now go to cloned directory and run `webpys.py` ```
   $ cd webpys
   $ python webpys.py
   ```
