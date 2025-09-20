@@ -17,20 +17,20 @@ WebPyS is a powerful, modular web reconnaissance tool that performs **passive an
  📦 Installation
 
    git clone  https://github.com/PugazhTheHacker/Webpys.git
+   cd ./webpys
 
-### 🔧 Requirements
+# create & activate venv (Linux / macOS)
+python3 -m venv venv
+source venv/bin/activate
 
-/Python 
+# or on Windows (PowerShell)
+python -m venv venv
+.\venv\Scripts\Activate.ps1
 
- pip install -r requirement.txt
+# install dependencies
+pip install --upgrade pip
+pip install -r requirements.txt
 
-### ✅ Install Dependencies
- 
- cd ./Desktop
-
- cd ./Webpys
-
- python webpys.py
 
 
 
