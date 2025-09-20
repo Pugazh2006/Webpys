@@ -14,9 +14,11 @@ WebPyS is a powerful, modular web reconnaissance tool that performs **passive an
 - 🎨 Beautiful CLI banner (Rich-powered)
 - ✅ Clean Python3 codebase — no bloat, no frameworks
 
- 📦 Installation
+- Just, Clone this repository -
+  ```
+  git clone --depth=1 https://github.com/PugazhTheHacker/Webpys
+  ```
 
-   git clone  https://github.com/PugazhTheHacker/Webpys.git
    cd ./webpys
 
 # create & activate venv (Linux / macOS)
@@ -30,6 +32,15 @@ python -m venv venv
 # install dependencies
 pip install --upgrade pip
 pip install -r requirements.txt
+
+  ```
+
+- Now go to cloned directory and run `webpys.py` -
+  ```
+  $ cd webpys
+  $ python webpys.py
+  ```
+
 
 
 
