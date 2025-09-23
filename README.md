@@ -4,7 +4,7 @@
 
 WebPyS is a powerful, modular web reconnaissance tool that performs **passive and semi-active enumeration** of web targets. It helps security researchers, bug bounty hunters, and penetration testers gather vital intelligence on websites without triggering excessive alerts.
 
-- 🔍 Passive recon with SSL & HTTP header analysis
+- 🔍 Passive recon with SSL & HTTP header analysis   
 - 🌐 Subdomain enumeration (wordlist-based)
 - 🔐 SSL certificate inspection & expiry checks
 - 🛡️ WAF fingerprinting
