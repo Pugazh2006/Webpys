@@ -8,7 +8,7 @@ WebPyS is a powerful, modular web reconnaissance tool that performs **passive an
 - 🌐 Subdomain enumeration (wordlist-based)
 - 🔐 SSL certificate inspection & expiry checks   
 - 🛡️ WAF fingerprinting
-- 🌐 Port scanning (80/443 TCP)    
+- 🌐 Port scanning (80/443 TCP)        
 - 📄 Auto-generated **HTML & XML reports**
 - ⚡ Multithreaded subdomain checking
 - 🎨 Beautiful CLI banner (Rich-powered)
